@@ -16,6 +16,7 @@ targets:
   - esp32h2
   - esp32s2
   - esp32s3
+  - esp32p4
 url: "https://github.com/Jack-InGitHub/esp-aht20"
 maintainers:
   - oikiou <oikiou@outlook.com>
